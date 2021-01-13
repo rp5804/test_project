@@ -1,4 +1,4 @@
-from util import create_device
+from util.util import create_device
 
 from tabulate import tabulate
 
